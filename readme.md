@@ -1,4 +1,4 @@
-2022-2 NUGU FRESH AI Repositories
+# 2022-2 NUGU FRESH AI Repositories
 
 I. AI ( Many-to-Many 7day-to-7day LSTM with Stateful Mode )
 
