@@ -1,10 +1,24 @@
-2022-2 AI Project
+2022-2 NUGU FRESH AI Repositories
 
-1. first_attempt_LSTM: Many-to-One LSTM
-2. second_attempt_LSTM: Many-to-One LSTM modified
-3. third_attempt_LSTM: Many-to-Many LSTM
-4. final_attempt_LSTM: Many-to-Many LSTM modified
-5. potato_LSTM: neurons - 16, dropout - 0.1, learningrate - 0.001
-6. cabbage_LSTM: neurons - 16, dropout - 0.01, learningrate - 0.001
-7. radish_LSTM: neurons - 16, dropout - 0.1, learningrate - 0.001
-8. onion_LSTM: neurons - 16, dropout - 0.1, learningrate - 0.001
+1. AI ( Many-to-Many 7day-to-7day LSTM with Stateful Mode )
+
+1) cabbage_7to7.ipynb
+2) onion_7to7.ipynb
+3) potato_7to7.ipynb
+4) radish_7to7.ipynb
+5) rice7_7to7.ipynb
+
+2. CSV ( preprocessed CSV Files to make LSTM models )
+
+1) cabbage_final.csv
+2) onion_final.csv
+3) potato_final.csv
+4) radish_final.csv
+5) rice_final.csv
+6) produced.csv
+7) weather.csv
+
+3. Practice ( Our history of making LSTM models )
+
+1) Many-to-One LSTM models
+2) 3day-to-3day LSTM models
